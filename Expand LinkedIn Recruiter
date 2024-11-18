@@ -1,1 +1,0 @@
-javascript:(function()%7B"use strict"%3Bvar wait%3D0%3Bwindow.scrollY<1e3%26%26(window.scrollTo(0%2Cdocument.body.offsetHeight%7C%7C1500)%2Cwait%3D300)%2Cwindow.setTimeout(function()%7B%5B".pv-profile-section__see-more-inline"%2C".lt-line-clamp__more"%5D.forEach(function(o)%7Bdocument.querySelectorAll(o).forEach(function(o)%7Bo.click()%7D)%7D)%7D%2Cwait)%3B%7D)()
