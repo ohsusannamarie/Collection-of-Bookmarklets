@@ -1,1 +1,0 @@
-javascript:(function()%7Bvar%20s%3Ddocument.createElement(%22script%22)%3Bs.type%3D%22text/javascript%22%3Bs.src%3D%22https://www.diigo.com/javascripts/webtoolbar/diigolet_b_h_b.js%22%3Bdocument.body.appendChild(s)%3B%7D)()%3B
