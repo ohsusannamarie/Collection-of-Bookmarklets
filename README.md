@@ -17,7 +17,7 @@
   </div></div>
 <ol start="2" dir="auto">
 <li>Right click and select Add new bookmark</li>
-<li>Use below title as bookmark name e.g. WLA Links Checker bookmarklet</li>
+<li>Use below title as bookmark name e.g. NEW BOOKMARKLET </li>
 <li>Copy and paste the code below and paste in the URL portion of the bookmark</li>
 <li>Save the bookmark</li>
 </ol>
